@@ -1,8 +1,8 @@
 # liri-node-app
 NODES Homework
 
-![dowhatitsays image](/images/Capturedowhatitsays.png)
-![concerthis image](/images/Captureconcertthis.png)
-![moviethis image](/images/Capturemoviethis.png)
-![spotifythissong image](/images/Capturespotifythissong.png)
+![dowhatitsays image](/images/Capturedowhatitsays.PNG)
+![concerthis image](/images/Captureconcertthis.PNG)
+![moviethis image](/images/Capturemoviethis.PNG)
+![spotifythissong image](/images/Capturespotifythissong.PNG)
 
